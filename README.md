@@ -1,1 +1,0 @@
-Hello. DemoGithub ne.
